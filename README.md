@@ -9,8 +9,8 @@ The dataset deployed for the purpose of this analysis was provided via a seconda
 
 # Tools
 - Microsoft Excel & Power Query Editor: Data cleaning and formatting)
-  Excerpt of Uncleaned Dataset:
-  Excerpt of Cleaned Dataset:
+ 1. Excerpt of Uncleaned Dataset:[Uncleaned Dataset](Uncleaned.png)
+ 2. Excerpt of Cleaned Dataset: [cleaned dataset](cleaned.png)
 - Python Colab Notebook: Data analysis
 - Power BI: Data visualization and reporting
 
