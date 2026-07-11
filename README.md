@@ -72,7 +72,7 @@ Revenue Inconsistency, poor performance and lack of visibility into seasonal win
 
 
 ## Python Code for EDAs
-With exploratory data analysis, solved business question with python codes. See [codes](Revenue_&_Performance_Analysis.ipynb)
+With exploratory data analysis, solved business questions with python codes. See [codes](Revenue_&_Performance_Analysis.ipynb)
 
 ```python
 import pandas as pd
